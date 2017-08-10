@@ -1,0 +1,6 @@
+Xcode
+~/Library/Developer/XCode/UserData/FontAndColorThemes
+
+
+WebStorm
+~/Library/Preferences/WebStorm2017.2/colors/
